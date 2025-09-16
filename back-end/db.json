@@ -1,0 +1,64 @@
+{
+    "pets": [
+        {
+            "id": 1,
+            "nome": "Scooby",
+            "descricao": "Cachorro docil que gosta de carinho na barriga",
+            "imagem": "https://l1nk.dev/6h2fe"
+        },
+        {
+            "id": 2,
+            "nome": "Muttley ",
+            "descricao": "Cachorro docil que gosta de carinho na barriga",
+            "imagem": "https://l1nk.dev/6h2fe"
+        },
+        {
+            "id": 3,
+            "nome": "Floquinho",
+            "descricao": "Cachorro docil que gosta de carinho na barriga",
+            "imagem": "https://l1nk.dev/6h2fe"
+        },
+        {
+            "id": 4,
+            "nome": "Monicão",
+            "descricao": "Cachorro docil que gosta de carinho na barriga",
+            "imagem": "https://l1nk.dev/6h2fe"
+        },
+        {
+            "id": 5,
+            "nome": "Spike ",
+            "descricao": "Cachorro docil que gosta de carinho na barriga",
+            "imagem": "https://l1nk.dev/6h2fe"
+        },
+        {
+            "id": 6,
+            "nome": "Odie ",
+            "descricao": "Cachorro docil que gosta de carinho na barriga",
+            "imagem": "https://l1nk.dev/6h2fe"
+        },
+        {
+            "id": 7,
+            "nome": "Coragem",
+            "descricao": "Cachorro docil que gosta de carinho na barriga",
+            "imagem": "https://l1nk.dev/6h2fe"
+        },
+        {
+            "id": 8,
+            "nome": "Rufus",
+            "descricao": "Cachorro peludinho e cheiroso",
+            "imagem": "https://sl1nk.com/LSMfD"
+        },
+        {
+            "id": 9,
+            "nome": "Costelinha ",
+            "descricao": "preguiçoso e carinhoso",
+            "imagem": "https://sl1nk.com/RXmbh"
+        },
+        {
+            "id": 10,
+            "nome": "Astro",
+            "descricao": "Cachorro alegre e brincalhao",
+            "imagem": "https://sl1nk.com/JIEjs"
+        }
+    ]
+}
