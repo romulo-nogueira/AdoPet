@@ -13,7 +13,7 @@ const ui = {
                   <h2>${item.nome}</h2>
                   <p>${item.raca}</p>
                   <span>${item.descricao}</span> 
-                  <button></button> 
+                  <button>Adote</button> 
                 </li>
                 `
                

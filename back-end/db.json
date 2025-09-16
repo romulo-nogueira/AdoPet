@@ -3,62 +3,72 @@
         {
             "id": 1,
             "nome": "Scooby",
+            "raca": "Dog Alemão", 
             "descricao": "Cachorro docil que gosta de carinho na barriga",
-            "imagem": "https://l1nk.dev/6h2fe"
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkS5DKZJDe_t0f_Uiui42zp9yvOWZn5RYdQ&s"
         },
         {
             "id": 2,
             "nome": "Muttley ",
+            "raca": "Dog Alemão",
             "descricao": "Cachorro docil que gosta de carinho na barriga",
-            "imagem": "https://l1nk.dev/6h2fe"
+            "imagem": "https://i.pinimg.com/474x/09/f4/71/09f471d2cde7e92a3f78838495e80c96.jpg  "
         },
         {
             "id": 3,
             "nome": "Floquinho",
+            "raca": "Dog Alemão",
             "descricao": "Cachorro docil que gosta de carinho na barriga",
-            "imagem": "https://l1nk.dev/6h2fe"
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/83/Floquinho_TdM.png"
         },
         {
             "id": 4,
             "nome": "Monicão",
+            "raca": "Dog Alemão",
             "descricao": "Cachorro docil que gosta de carinho na barriga",
-            "imagem": "https://l1nk.dev/6h2fe"
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2c/Monic%C3%A3o_TDM.png"
         },
         {
             "id": 5,
             "nome": "Spike ",
+            "raca": "Dog Alemão",
             "descricao": "Cachorro docil que gosta de carinho na barriga",
-            "imagem": "https://l1nk.dev/6h2fe"
+            "imagem": "https://i.pinimg.com/564x/d4/7c/f9/d47cf9df439695a250794eb2cc0fe3a4.jpg"
         },
         {
             "id": 6,
             "nome": "Odie ",
+            "raca": "Dog Alemão",
             "descricao": "Cachorro docil que gosta de carinho na barriga",
-            "imagem": "https://l1nk.dev/6h2fe"
+            "imagem": "https://www.portaldodog.com.br/wp-content/uploads/2013/01/odie_cachorro_garfield_sobre.jpg"
         },
         {
             "id": 7,
             "nome": "Coragem",
+            "raca": "Dog Alemão",
             "descricao": "Cachorro docil que gosta de carinho na barriga",
-            "imagem": "https://l1nk.dev/6h2fe"
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbeMEToY0uOMllU1tlP115haRGhdWklIztTw&s"
         },
         {
             "id": 8,
             "nome": "Rufus",
+            "raca": "Dog Alemão",
             "descricao": "Cachorro peludinho e cheiroso",
-            "imagem": "https://sl1nk.com/LSMfD"
+            "imagem": ""
         },
         {
             "id": 9,
             "nome": "Costelinha ",
+            "raca": "Dog Alemão",
             "descricao": "preguiçoso e carinhoso",
-            "imagem": "https://sl1nk.com/RXmbh"
+            "imagem": "https://blogbompracachorro.wordpress.com/wp-content/uploads/2011/07/costelinha.jpg"
         },
         {
             "id": 10,
             "nome": "Astro",
+            "raca": "Dog Alemão",
             "descricao": "Cachorro alegre e brincalhao",
-            "imagem": "https://sl1nk.com/JIEjs"
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvJaZ58VejF8mYgDY2DtSauOjg1F_f_P3E7g&s"
         }
     ]
 }
