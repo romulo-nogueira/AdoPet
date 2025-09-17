@@ -60,7 +60,7 @@
 
 .container-principal-conteudo ul li button{
     padding: 10px;
-    width: 250px;
+    width: 10vw;
     align-items: center;
     margin-left: 20%;
     margin-bottom: 10px;
@@ -78,5 +78,6 @@
 
 .container-principal-conteudo ul li img{
     width: 150px;
+    height: 30vh;
     margin-left: 20%;
 }

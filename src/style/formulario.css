@@ -1,0 +1,64 @@
+.formulario{
+    /* border: 3px solid red; */
+    display: grid;
+    justify-content: center;
+}
+
+#pet-form{
+    /* border: 3px solid rgb(37, 13, 220); */
+    width: 400px;
+    height: auto;
+    padding: 50px;
+    justify-items: center;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    
+
+}
+
+#pet-form h3{
+    text-align: center;
+    font-family: monospace;
+    font-size: 1.5rem;
+    color: #FD6356;
+}
+
+.form-group input{
+    width: 300px;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 8px;
+    border: 1px solid grey;
+    font-family: monospace;
+    
+
+    
+}
+
+.form-group textarea {
+    width: 300px;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 8px;
+    font-family: monospace;
+    
+}
+
+#pet-form button {
+    padding: 10px;
+    margin-top: 10px;
+    width: 300px;
+    border-radius: 8px;
+    border: none;
+    background-color: #FD6356;
+    color: #ffffff;
+    font-size: 1rem;
+    font-family: monospace;
+    cursor: pointer;
+}
+
+#pet-form button:hover {
+  background: #ef4444; /* hover mais forte */
+}
