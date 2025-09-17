@@ -40,3 +40,21 @@ nav ul li a{
     font-size: 1.2rem;
     font-weight: 600;
 }
+
+nav ul button{
+    padding:5px;
+    background-color: #FDE0DD;
+    border: 1px solid grey;
+    font-family: "Inter", sans-serif;
+    font-size: 1rem;
+    color: #FD5446;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    transition: all 0.1s ease;
+}
+
+nav ul button:active {
+  transform: translateY(3px);
+  box-shadow: 0 1px #2d6a31;
+}
