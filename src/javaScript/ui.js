@@ -44,7 +44,23 @@ const ui = {
 
         const button = document.createElement('button');
         button.innerText = "Quero Adotar";
-        li.append(img, h2, p, span, button)
+
+       
+        //Criando icone de editar
+
+        //Criando o botao de excluir
+
+        const buttonExcluir = document.createElement('button');
+        buttonExcluir.classList.add('botao-excluir');
+
+        // Criando icone de excluir
+
+        const iconDelete = document.createElement('img')
+        iconDelete.src = "./src/asstes/img" // verificar caminho correto
+        iconDelete.alt = "Imagem do icone de deletar"
+        buttonExcluir.appendChild(iconDelete);
+
+        li.append(img, h2, p, span, button,buttonExcluir)
         listPets.appendChild(li)
     }
 }
