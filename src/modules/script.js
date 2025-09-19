@@ -1,3 +1,3 @@
 import initAbrirForm from "./abrirBtn.js";
 
-initAbrirForm("abrir-form", "formulario")
+initAbrirForm("abrir-form", "formulario", "botao-atualizar")

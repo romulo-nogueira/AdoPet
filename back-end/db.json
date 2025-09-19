@@ -12,7 +12,7 @@
       "nome": "Muttley ",
       "raca": "Dog Alemão",
       "descricao": "Cachorro docil que gosta de carinho na barriga",
-      "imagem": "https://i.pinimg.com/474x/09/f4/71/09f471d2cde7e92a3f78838495e80c96.jpg  "
+      "imagem": "https://i.pinimg.com/474x/09/f4/71/09f471d2cde7e92a3f78838495e80c96.jpg"
     },
     {
       "id": 3,
@@ -50,13 +50,6 @@
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbeMEToY0uOMllU1tlP115haRGhdWklIztTw&s"
     },
     {
-      "id": 8,
-      "nome": "Rufus",
-      "raca": "Dog Alemão",
-      "descricao": "Cachorro peludinho e cheiroso",
-      "imagem": ""
-    },
-    {
       "id": 9,
       "nome": "Costelinha ",
       "raca": "Dog Alemão",
@@ -69,13 +62,6 @@
       "raca": "Dog Alemão",
       "descricao": "Cachorro alegre e brincalhao",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvJaZ58VejF8mYgDY2DtSauOjg1F_f_P3E7g&s"
-    },
-    {
-      "nome": "Danoninho",
-      "raca": "Poodle",
-      "descricao": "Lindo e fofo",
-      "imagem": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3238967:1654206648/Poodle-toy.jpg?f=default&$p$f=f3a8e51",
-      "id": 11
     }
   ]
 }

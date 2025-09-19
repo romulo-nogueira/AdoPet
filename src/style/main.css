@@ -58,7 +58,7 @@
     margin-left: 5%;
 }
 
-.container-principal-conteudo ul li button{
+.cadastro{
     padding: 10px;
     width: 10vw;
     align-items: center;
@@ -72,12 +72,18 @@
     border-radius: 9px;
     cursor: pointer;
 }
-.container-principal-conteudo ul li button:hover{
+.cadastro:hover{
     background-color: green;
 }
 
-.container-principal-conteudo ul li img{
+.imagePet{
     width: 150px;
     height: 30vh;
     margin-left: 20%;
 }
+.botao-excluir{
+    width: 30px;
+}
+/* .imageLoader{
+    width: 220px;
+} */

@@ -21,7 +21,12 @@ async function manipulaForm(event){
     const imagem = document.getElementById('imagem').value;
 
     try {
-        await api.adicionarPets({nome, raca, descricao, imagem})
+        if(id){
+            await api.atualizarPets({id, nome, raca, descricao, imagem})
+        }else{
+            await api.adicionarPets({id, nome, raca, descricao, imagem})
+        }
+        
         ui.renderizarPets()
 
     } catch (error) {   
